@@ -1,0 +1,14 @@
+C:\Users\dulan\Pictures\ExceptionHandling-master\ExceptionHandling-master\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling.exe
+C:\Users\dulan\Pictures\ExceptionHandling-master\ExceptionHandling-master\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling.deps.json
+C:\Users\dulan\Pictures\ExceptionHandling-master\ExceptionHandling-master\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling.runtimeconfig.json
+C:\Users\dulan\Pictures\ExceptionHandling-master\ExceptionHandling-master\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling.dll
+C:\Users\dulan\Pictures\ExceptionHandling-master\ExceptionHandling-master\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling.pdb
+C:\Users\dulan\Pictures\ExceptionHandling-master\ExceptionHandling-master\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dulan\Pictures\ExceptionHandling-master\ExceptionHandling-master\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\dulan\Pictures\ExceptionHandling-master\ExceptionHandling-master\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.AssemblyInfo.cs
+C:\Users\dulan\Pictures\ExceptionHandling-master\ExceptionHandling-master\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\dulan\Pictures\ExceptionHandling-master\ExceptionHandling-master\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.dll
+C:\Users\dulan\Pictures\ExceptionHandling-master\ExceptionHandling-master\ExceptionHandling\obj\Debug\net6.0\refint\ExceptionHandling.dll
+C:\Users\dulan\Pictures\ExceptionHandling-master\ExceptionHandling-master\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.pdb
+C:\Users\dulan\Pictures\ExceptionHandling-master\ExceptionHandling-master\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.genruntimeconfig.cache
+C:\Users\dulan\Pictures\ExceptionHandling-master\ExceptionHandling-master\ExceptionHandling\obj\Debug\net6.0\ref\ExceptionHandling.dll
